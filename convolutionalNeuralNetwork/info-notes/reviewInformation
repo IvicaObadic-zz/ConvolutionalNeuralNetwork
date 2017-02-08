@@ -1,0 +1,9 @@
+review different tokens(unique words including punctuation signs) = 119840
+tokens not found in glove = 52977
+successfully replaced tokens = 42717
+After edit distance is performed:
+    - 84955 words in the dataset
+total:
+    229907 reviews, 400000 tokens.
+
+Review so maximum glasovi = 237.
